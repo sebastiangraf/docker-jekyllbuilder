@@ -9,7 +9,9 @@ RUN gem install \
   jekyll \
   jekyll-sitemap \
   jekyll-feed \
-  jekyll-seo-tag
+  jekyll-seo-tag \
+  jekyll-paginate \
+  jekyll-redirect-from
   
 
 VOLUME /src
